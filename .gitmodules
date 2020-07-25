@@ -2,3 +2,9 @@
 	path = public
 	url = https://github.com/lmopextravaganza/lmopextravaganza.github.io.git
 	branch = master
+[submodule "themes/hugo-notepadium"]
+	path = themes/hugo-notepadium
+	url = https://github.com/cntrump/hugo-notepadium.git
+[submodule "themes/book"]
+	path = themes/book
+	url = https://github.com/alex-shpak/hugo-book

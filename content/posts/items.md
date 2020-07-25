@@ -1,9 +1,6 @@
 ---
-title: Items and information.
-description: A listing of items.
-date: 2020-07-15
-tags:
-  - "LMOP"
+title: Introduction
+type: posts
 ---
 
 ## Helm of the Night

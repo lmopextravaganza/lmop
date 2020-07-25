@@ -1,5 +1,5 @@
 baseURL = "https://lmopextravaganza.github.io"
-title = "Binario"
+title = "LMOP Notes for Zach and Devon"
 languageCode = "en-us"
 paginate = 10
 theme = "binario"
