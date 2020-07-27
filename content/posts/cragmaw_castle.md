@@ -115,3 +115,16 @@ On the way back to Phandelin, Gundren is obviously very gracious for the rescue.
     - A. The Location of the fabled "Wave Echo Cave"
     - B. A map that supposedly is the layout of Wave Echo Cave's inner chambers and tunnels that is a copy of a copy of a copy, etc. from the journal of a Dwarf adventurer named Urmon (you have his journal, FYI)
     - C. In order to operate the Forge of Spells four magic keys must be used. The keys have been spread all over the region. Gundren and his brothers know the locations.
+
+RE: Barrel(s) at Cragmaw Castle
+
+The barrels contained old salted meats, sacks of rotting grain, and a small barrel (cask) of Dwarven Brandy (you know it's Dwarven, and brandy, because there's a burned-in brand stamp on the side that say's "Barundar's Bawdy Brandy.)" Also a bloodied suit of chain mail, heavy crossbow and an unsheathed longsword bearing the emblem of the Lord's Alliance in the hilt.
+
+RE: Keys and Brothers
+
+*"HAR! My Brothers! Safe as babes, I'm sure. Nundro is off with a couple other Dwarves, Willam and Theador, at an ancient Dwarven Temple about 15 miles SouthWest of Phandelin. They are excavating the temple in search of one of the keys. When I left them there was quite a mess to deal with as Earthquakes had destroyed the area quite some time ago. And Tharden is posted up at the Cave itself. Nobody know''s it's location, so I'm sure he's just biding his time. Probably getting bored to tears. Perhaps when we get back to Phandelin you could check in on Nundro while I recuperate in town."*
+
+RE: Dragon Talk
+
+*"WHAT!!?? dragonS!!! did you say DRAGONS!!!??" Emphasizing the plural of the word. "I had heard rumors of a young Green Dragon in the area. It'd been seen on the Western edges of Neverwinter Wood. But now you're telling me that there's a White Dragon as well? In the South? Hmmm.... I don't like this one bit. It seems that someone, or something, this 'black Spider,' as you called it,  knows what my brothers and I are up to. Maybe these dragons...
+...have heard rumors of untold wealth returning to Phandelin and are biding their time? Please, Check on Nundro when we return."*
