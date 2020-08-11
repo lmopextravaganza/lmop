@@ -94,3 +94,6 @@ Notes:
 
 * LMOP p. 38
 
+### Necklace of Fireballs
+* Currently held by Kal
+* Has 4 charges left of a third level fireball.
