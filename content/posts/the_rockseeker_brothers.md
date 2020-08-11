@@ -8,7 +8,7 @@ weight: 1
 ---
 
 ## Clearing out the Temple
-With the help of Theodore and Willem, the group is able to clear out a path to a caved in room.  This room has a large green glow to it.  Kal looks around the room and sees a statue with a necklace of some sort of evocation magic.  He seriously investigates (rolling a 3) and determines that the largest emerald he has ever seen is just laying there to be taken.  He attempted to pick it up and was hit with a fireball.  After nearly passing out, he picks up the [Necklace of Fireball](/docs/items#Necklace-of-Fireballs)
+With the help of Theodore and Willem, the group is able to clear out a path to a caved in room.  This room has a large green glow to it.  Kal looks around the room and sees a statue with a necklace of some sort of evocation magic.  He seriously investigates (rolling a 3) and determines that the largest emerald he has ever seen is just laying there to be taken.  He attempted to pick it up and was hit with a fireball.  After nearly passing out, he picks up the [Necklace of Fireball](/docs/items#necklace-of-fireballs)
 
 The group looks around some more, but it appears everything else is just secret tunnels going back to the main chambers.  After discussing with Willem and Theodore, Nib and Kal escort them back to Phandalin to speak with Gundrin.
 
